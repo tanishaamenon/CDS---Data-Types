@@ -33,3 +33,21 @@ int main()
     return 0;
 
 }
+
+/*
+Output
+Size of integer: 4 bytes
+Size of character: 1 byte
+Size of short int: 2 bytes
+Size of long int: 4 bytes
+Size of float: 4 bytes
+Size of double: 8 bytes
+Size of wide character: 2 bytes    
+Size of signed short int: 2 bytes  
+Size of unsigned short int: 2 bytes
+Size of signed long int: 4 bytes   
+Size of unsigned long int: 4 bytes
+Size of long long int: 8 bytes
+Size of unsigned long long int: 8 bytes
+Size of long double: 12 bytes
+*/
