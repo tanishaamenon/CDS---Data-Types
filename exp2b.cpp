@@ -13,3 +13,11 @@ int main()
 
     return 0;
 }
+
+/*
+Output:
+Size of auto integer: 4 bytes
+Size of register integer: 4 bytes
+Size of static int: 4 bytes
+Size of extern int: 4 bytes
+*/
